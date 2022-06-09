@@ -1,0 +1,242 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "profilePicture": "assets/person/1.jpg",
+      "coverPic": "assets/post/1.jpg",
+      "username": "Chinmay",
+      "city": "Mangalore",
+      "from": "Mittur",
+      "relationship": "Single",
+      "desc": "FrontEnd Developer"
+    },
+    {
+      "id": 2,
+      "profilePicture": "assets/person/2.jpg",
+      "coverPic": "assets/post/2.jpeg",
+      "username": "Chinthan",
+      "city": "Mangalore",
+      "from": "Puttur",
+      "relationship": "Single",
+      "desc": "Doctor"
+    },
+    {
+      "id": 3,
+      "profilePicture": "assets/person/3.jpg",
+      "coverPic": "assets/post/3.jpg",
+      "username": "Shruthi",
+      "city": "Mangalore",
+      "from": "Mittur",
+      "relationship": "Married",
+      "desc": "Teacher"
+    },
+    {
+      "id": 5,
+      "profilePicture": "assets/person/5.png",
+      "coverPic": "assets/post/4.jpeg",
+      "username": "Deepthi",
+      "city": "Mangalore",
+      "from": "Kapikad",
+      "relationship": "Married",
+      "desc": "Teacher"
+    },
+    {
+      "id": 6,
+      "profilePicture": "assets/person/6.jpg",
+      "coverPic": "assets/post/5.jpg",
+      "username": "Supreetha",
+      "city": "Mangalore",
+      "from": "Marnamikatte",
+      "relationship": "Married",
+      "desc": "Dancer"
+    },
+    {
+      "id": 7,
+      "profilePicture": "assets/person/7.jpg",
+      "coverPic": "assets/post/6.jpeg",
+      "username": "Harish",
+      "city": "Bangalore",
+      "from": "Marathahalli",
+      "relationship": "Married",
+      "desc": "Harware"
+    },
+    {
+      "id": 8,
+      "profilePicture": "assets/person/8.jpg",
+      "coverPic": "assets/post/7.jpeg",
+      "username": "Manjunath",
+      "city": "Bangalore",
+      "from": "Marathahalli",
+      "relationship": "Single",
+      "desc": "Hardware"
+    },
+    {
+      "id": 9,
+      "profilePicture": "assets/person/9.jpg",
+      "coverPic": "assets/post/8.jpeg",
+      "username": "Raghu",
+      "city": "Mangalore",
+      "from": "BC-Road",
+      "relationship": "Single",
+      "desc": "Sales"
+    },
+    {
+      "id": 10,
+      "profilePicture": "assets/person/10.jpg",
+      "coverPic": "assets/post/9.jpg",
+      "username": "Nirmala",
+      "city": "Bangalore",
+      "from": "Marathahalli",
+      "relationship": "Married",
+      "desc": "Lawyer"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "desc": "My First Post",
+      "photo": "assets/post/2.jpg",
+      "date": "Sun Feb 06 2022 23:41:11 GMT-0800",
+      "userId": 1,
+      "like": 300,
+      "comment": "9"
+    },
+    {
+      "id": 2,
+      "desc": "Love for All",
+      "photo": "assets/post/1.jpg",
+      "date": "Sun Feb 06 2022 23:41:11 GMT-0800",
+      "userId": 2,
+      "like": 30,
+      "comment": "3"
+    },
+    {
+      "id": 3,
+      "photo": "assets/post/2.jpeg",
+      "date": "Sun Feb 06 2022 23:41:11 GMT-0800",
+      "userId": 3,
+      "like": 40,
+      "comment": "2"
+    },
+    {
+      "id": 5,
+      "photo": "assets/post/4.jpeg",
+      "date": "Sun Feb 06 2022 23:41:11 GMT-0800",
+      "userId": 5,
+      "like": 350,
+      "comment": "5"
+    },
+    {
+      "id": 6,
+      "desc": "Hello",
+      "photo": "assets/post/5.jpg",
+      "date": "Sun Feb 06 2022 23:41:11 GMT-0800",
+      "userId": 6,
+      "like": 370,
+      "comment": "4"
+    },
+    {
+      "id": 7,
+      "desc": "How are u",
+      "photo": "assets/post/6.jpeg",
+      "date": "Sun Feb 06 2022 23:43:15 GMT-0800",
+      "userId": 7,
+      "like": 370,
+      "comment": "4"
+    },
+    {
+      "id": 8,
+      "desc": "please press like button",
+      "photo": "assets/post/7.jpeg",
+      "date": "Sun Feb 06 2022 23:43:15 GMT-0800",
+      "userId": 8,
+      "like": 370,
+      "comment": "4"
+    },
+    {
+      "id": 9,
+      "desc": "please comment something",
+      "photo": "assets/post/8.jpeg",
+      "date": "Sun Feb 06 2022 23:43:15 GMT-0800",
+      "userId": 9,
+      "like": 370,
+      "comment": "4"
+    },
+    {
+      "id": 10,
+      "desc": "my latest pic",
+      "photo": "assets/post/9.jpg",
+      "date": "Sun Feb 06 2022 23:43:15 GMT-0800",
+      "userId": 10,
+      "like": 370,
+      "comment": "4"
+    },
+    {
+      "userId": "1",
+      "desc": "",
+      "photo": "assets/post/11.jpg",
+      "date": "Fri, 18 Feb 2022 20:41:31 GMT",
+      "like": "",
+      "comment": "",
+      "id": 11
+    },
+    {
+      "userId": "1",
+      "desc": "",
+      "photo": "assets/post/4.jpeg",
+      "date": "Fri, 25 Feb 2022 01:30:33 GMT",
+      "like": "",
+      "comment": "",
+      "id": 12
+    },
+    {
+      "userId": "1",
+      "desc": "",
+      "photo": "assets/post/9.jpg",
+      "date": "Thu, 03 Mar 2022 20:54:58 GMT",
+      "like": "",
+      "comment": "",
+      "id": 13
+    },
+    {
+      "userId": "1",
+      "desc": "Hello!",
+      "photo": "assets/post/4.jpeg",
+      "date": "Thu, 28 Apr 2022 07:17:57 GMT",
+      "like": "",
+      "comment": "",
+      "id": 14
+    }
+  ],
+  "register": [
+    {
+      "username": "Chinmay",
+      "email": "c@gmail.com",
+      "password": "12345678",
+      "cpassword": "12345678",
+      "id": 1
+    }
+  ],
+  "friends": [
+    {
+      "id": 3,
+      "profilePicture": "assets/person/3.jpg",
+      "coverPic": "assets/post/3.jpg",
+      "username": "Shruthi",
+      "city": "Mangalore",
+      "from": "Mittur",
+      "relationship": "Married",
+      "desc": "Teacher"
+    },
+    {
+      "id": 2,
+      "profilePicture": "assets/person/2.jpg",
+      "coverPic": "assets/post/2.jpeg",
+      "username": "Chinthan",
+      "city": "Mangalore",
+      "from": "Puttur",
+      "relationship": "Single",
+      "desc": "Doctor"
+    }
+  ]
+}

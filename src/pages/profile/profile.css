@@ -1,0 +1,114 @@
+.profile{
+    display: flex;
+}
+.profileRight{
+    flex:9;
+}
+.profileRightBottom{
+    display: block;
+}
+.profileCover{
+    height: 300px;
+    position: relative;
+}
+.profileCoverImg{
+    width: 100%;
+    height: 250px;
+}
+.profileUserImg{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 150px;
+    margin: auto;
+    border: 3px solid white;
+}
+.profileInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.ProfileInfoName{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.ProfileInfoDesc{
+    font-weight: 300;
+}
+
+.posts{
+    width: 95%;
+    box-shadow: 2px 1px 19px -3px rgba(13,15,14,0.59);
+    -webkit-box-shadow: 2px 1px 19px -3px rgba(13,15,14,0.59);
+    -moz-box-shadow: 2px 1px 19px -3px rgba(13,15,14,0.59);
+    margin: 10px 30px;
+}
+.postWrapper{
+    margin: 10px 0px;
+}
+.postTop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.postTopLeft{
+    display: flex;
+    align-items: center;
+}
+.postProfileImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.postUserName{
+    font-size: 15px;
+    margin: 0px 10px;
+}
+.postTime{
+    font-size: 12px;
+}
+.postCenter{
+    margin: 10px 10px;
+}
+.postText{
+    margin-left: 10px;
+}
+.postImg{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-height: 500px;
+    object-fit: contain;
+}
+.postBottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.postBottomLeft{
+    display: flex;
+    align-items: center;
+}
+.likeIcon{
+    width: 25px;
+    height: 25px;
+    margin:5px 5px;
+    cursor: pointer;
+}
+.postLikeComment{
+    cursor: pointer;
+}
+.postCommentText{
+    cursor: pointer;
+    margin:5px 5px;
+}
+.profileShare{
+    width:95%;
+    margin: 20px 30px;
+}
